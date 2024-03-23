@@ -1,0 +1,47 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.BigMainHeader {
+    color: black;
+    font-size: 50px;
+    text-align: center;
+    background-color: red;
+    font-weight: bold;
+}
+
+.bloodychickenlink {
+    background-color: yellow;
+}
+
+.bureklink {
+    font-weight: bold;
+    background-color: blue;
+}
+
+.pushtetlink {
+    background-color: green;
+}
+
+.bureklink, .pushtetlink, .bloodychickenlink {
+    font-size: 30px;
+    color: black;
+}
+
+.align {
+    text-align: center;
+}
+
+.body {
+    font-size: 25px;
+}
+
+.smallheader {
+    font-size: 35px;
+}
+
+.Header1 {
+    font-weight: 900;
+    font-size: 40px;
+    background-color: darkgray;
+}
